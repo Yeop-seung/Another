@@ -534,7 +534,7 @@
   <img src="https://drive.google.com/uc?export=view&id=11IywT92jkOCMDJtEpzjHPXH1BZTkA9aw" width="100%">
 </div>
 
-[요구사항 정의 및 명세](https://ivory-market-839.notion.site/REST-API-ed23506dcb4c4d708e7bf235cf97fa0b)
+[요구사항 정의 및 명세](https://handsome-jackrabbit-e39.notion.site/81ca4e63e81d496581bed869ded2ddb1)
 
 <br>
 <br>
